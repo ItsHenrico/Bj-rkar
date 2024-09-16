@@ -3,6 +3,7 @@ body,html{
 }
 
 .hero{
+    margin-top: 19vh;
     display: grid;
     grid-template-areas: "stack";
 
@@ -13,8 +14,7 @@ body,html{
     .overlay{
         height: 60vh;
         width: 100%;
-        background-color: #00000000;
-    
+        background-color: #00000080;
     }
 
     h1,p{
@@ -36,14 +36,24 @@ body,html{
 }
 
 .con{
+    font-family: sans-serif;
+    margin-bottom: 3vh;
+    h1{
+        text-align: center;
+    }
+
     p{
         width: 80ch;
         margin-inline: auto;
-        font-family: sans-serif;
     }
 }
 
+.bold{
+    font-weight: bold;
+}
+
 nav{
+    background-color: #ffffff;
     position: absolute;
     top: 0;
     left: 0;
@@ -53,8 +63,8 @@ nav{
     align-items: center;
     gap: 1rem;
     padding: 1.6rem;
-    background-color: #ffffff80;
     font-size: 1.4rem;
+
 
     ul{
         list-style: none;
@@ -67,4 +77,11 @@ nav{
     a{
         text-decoration: none;
     }
+}
+
+footer{
+    font-family: sans-serif;
+    padding: 5vh;
+    background-color: #00d070;
+    color: #ffffff;
 }

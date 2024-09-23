@@ -39,6 +39,10 @@ body,html{
         height: 60vh;
         object-fit: cover;
     }
+
+    .background{
+        background-color: #000000;
+    }
 }
 
 .con{
@@ -89,6 +93,6 @@ nav{
 footer{
     font-family: sans-serif;
     padding: 5vh;
-    background-color: #00d070;
+    background-color: #525252;
     color: #ffffff;
 }

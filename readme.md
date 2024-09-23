@@ -15,7 +15,7 @@ Jag ändrade herotextens margin från rem till vw, och ändrade min bilds max-he
 Det tog 9 sekunder med 3g så inte jätte illa enligt mig. Det mesta var dock klart efter ca 2
 
 ### Bilder och Media
-
+Eftersom att bilden var vad som tog mest tid under förra punkten så drog jag ner min bilds ppi till 72
 
 ### Wave
 Allt utom 3 saker såg bra ut, en av de behövde jag bara ändra färgen på footern från en ljusgrön till en grå. Sedan så bara skapade den en vit färg under min hero text så det gick inte att fixa.

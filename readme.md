@@ -9,10 +9,10 @@ Det såg likadant ut på Firefox
 ### Annan upplösning
 När den blev för smal blev inte texten liten nog
 
-Jag ändrade herotextens margin från rem till vw, och ändrade min bilds max-height till height. Jag gjorde också ett media query som tar bort herotexten om upplösningen är för smal
+Jag ändrade herotextens margin från rem till vw, och ändrade min bilds max-height till height. Jag gjorde också ett media query som tar bort herotexten om upplösningen är för smal. Jag tog också bort min main text max-width som den av någon anledning hade.
 
 ### Intenet test
-
+Det tog 9 sekunder med 3g så inte jätte illa enligt mig. Det mesta var dock klart efter ca 2
 
 ### Bilder och Media
 
